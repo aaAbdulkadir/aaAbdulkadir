@@ -5,7 +5,7 @@
 <br/>
 
 ## About me
-- Self taught data science/analyst.
+- Self taught data science/analyst/engineer.
 - Data analysis experience.
 - MEng Mechanical Engineering Graduate 2021.
 
