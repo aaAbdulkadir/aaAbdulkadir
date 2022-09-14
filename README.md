@@ -2,14 +2,12 @@
 
 <h3 align="center">Passionate about data engineering/science.</h3>
 
-<br/>
 
 ## About me
 - Self taught data science/analyst/engineer.
 - Data analysis experience.
 - MEng Mechanical Engineering Graduate 2021.
 
-<br>
 
 ## My Skills
 
