@@ -16,7 +16,11 @@
 - Python (Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, Beautifulsoup, Selenium).
 - SQL (TSQL, Data Warehouse, Data Architecture, ETL).
 - Data Visualization (PowerBI, Tableau).
-- Azure Fundamentals AZ-900 (+Storage, DB, Machine Learning Studio).
+- Azure Fundamentals AZ-900, Storage, Synpase Analytics, Data Lakes, VM, ML Studio.
+- Terraform.
+- Docker Containers.
+- Linux.
+- Apache Airflow and Spark.
 - Agile.
 
 <br>
