@@ -32,27 +32,8 @@
 
 <br>
 
-----
- Check out my data science repository: https://github.com/aaAbdulkadir/Data-Science
-
-----
-
-
-  - Streak Stats
-  <br/>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aaAbdulkadir&theme=algolia" alt="aaAbdulkadir" /></p>
-  <br/>
-	
-  - Github Profile Stats
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="aaAbdulkadir's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aaAbdulkadir&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aaAbdulkadir&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="aaAbdulkadir" height="192px"/>
-<br/>
-
+## Complete Data Portfolio
+ Check out my [data repository](https://github.com/aaAbdulkadir/Data-Science)
 ----
 
   - Recent GitHub Activity
