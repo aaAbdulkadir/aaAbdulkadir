@@ -33,7 +33,7 @@ DevOps:
 
 Data:
 - [Data Engineering Zoom Camp: Cloud-based ETL Pipeline](https://github.com/aaAbdulkadir/DataPortfolio/tree/main/ZoomCamp/Project)
-- [QA Final Project: Data Warehousing for Business Intelligence Reporting](https://github.com/aaAbdulkadir/Data-Science/tree/main/Bootcamp/Final%20Project)
+- [QA Final Project: Data Warehousing for Business Intelligence Reporting](https://github.com/aaAbdulkadir/DataPortfolio/tree/main/Bootcamp/Final%20Project)
 - Regression and Classification Machine Learning Models on NBA Data:
 	- [Classification](https://github.com/aaAbdulkadir/DataPortfolio/blob/main/ML%20Projects/NBA%20Classification.ipynb)
 	- [Regression](https://github.com/aaAbdulkadir/DataPortfolio/blob/main/ML%20Projects/NBA%20MVP%20Prediction%20Regression.ipynb)
