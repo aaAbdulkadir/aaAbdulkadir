@@ -17,6 +17,7 @@
 - Azure Fundamentals AZ-900, Storage, Synpase Analytics, Data Lakes, VM, ML Studio, AKS, ACR
 - Terraform.
 - Docker Containers.
+- Kubernetes
 - Linux.
 - Apache Airflow and Spark.
 - Jenkins
