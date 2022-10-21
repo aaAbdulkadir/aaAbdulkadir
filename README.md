@@ -1,6 +1,6 @@
 <h1 align="center">Abdulkadir&sup2 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h3 align="center">Passionate about data engineering/science.</h3>
+<h3 align="center">Passionate about data engineering.</h3>
 
 
 ## About me
@@ -11,35 +11,37 @@
 
 ## My Skills
 
-- Python (Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, Beautifulsoup, Selenium).
+- Python (Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, Beautifulsoup, Selenium, Streamlit).
 - SQL (TSQL, Data Warehouse, Data Architecture, ETL).
 - Data Visualization (PowerBI, Tableau).
-- Azure Fundamentals AZ-900, Storage, Synpase Analytics, Data Lakes, VM, ML Studio.
+- Azure Fundamentals AZ-900, Storage, Synpase Analytics, Data Lakes, VM, ML Studio, AKS, ACR
 - Terraform.
 - Docker Containers.
 - Linux.
+- Git.
 - Apache Airflow and Spark.
-- Agile.
+- Jenkins
+
 
 ## CV Portfolio Projects
+DevOps:
+- [Portfolio WebApp Cloud-based CI/CD Pipeline](https://github.com/aaAbdulkadir/DevOps/tree/main/project)
 
+<<<<<<< HEAD
+Data:
 - [Data Engineering Zoom Camp: Cloud-based ETL Pipeline](https://github.com/aaAbdulkadir/Data-Science/tree/main/ZoomCamp/Project)
 - [QA Final Project: Data Warehousing for Business Intelligence Reporting](https://github.com/aaAbdulkadir/Data-Science/tree/main/Bootcamp/Final%20Project)
-- Regression and Classification Machine Learning Models on NBA Data:
-	- [Classification](https://github.com/aaAbdulkadir/Data-Science/blob/main/ML%20Projects/NBA%20Classification.ipynb)
-	- [Regression](https://github.com/aaAbdulkadir/Data-Science/blob/main/ML%20Projects/NBA%20MVP%20Prediction%20Regression.ipynb)
-- [COVID-19 ETL Pipeline for Analysis and Tracking](https://github.com/aaAbdulkadir/Data-Science/tree/main/Exploratory%20Data%20Analysis/COVIDProject)
+=======
+You can view my [portfolio website](https://aaabdulkadir-dataportfolio-portfolio1--home-aw1tq3.streamlitapp.com/) which summarises and puts all of the projects into one website, or you can check out the full project below:
 
-<br>
+- [Data Engineering Zoom Camp: Cloud-based ETL Pipeline](https://github.com/aaAbdulkadir/DataPortfolio/tree/main/ZoomCamp/Project)
+- [QA Final Project: Data Warehousing for Business Intelligence Reporting](https://github.com/aaAbdulkadir/DataPortfolio/tree/main/Bootcamp/Final%20Project)
+>>>>>>> origin/main
+- Regression and Classification Machine Learning Models on NBA Data:
+	- [Classification](https://github.com/aaAbdulkadir/DataPortfolio/blob/main/ML%20Projects/NBA%20Classification.ipynb)
+	- [Regression](https://github.com/aaAbdulkadir/DataPortfolio/blob/main/ML%20Projects/NBA%20MVP%20Prediction%20Regression.ipynb)
+- [COVID-19 ETL Pipeline for Analysis and Tracking](https://github.com/aaAbdulkadir/DataPortfolio/tree/main/Exploratory%20Data%20Analysis/COVIDProject)
 
 ## Complete Data Portfolio
- Check out my [data repository](https://github.com/aaAbdulkadir/Data-Science)
-----
+ - Check out my [data repository](https://github.com/aaAbdulkadir/DataPortfolio)
 
-  - Recent GitHub Activity
-  <br/>
-   <a href="https://github.com/aaAbdulkadir"><img alt="aaAbdulkadir's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aaAbdulkadir&custom_title=aaAbdulkadir's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-
------
