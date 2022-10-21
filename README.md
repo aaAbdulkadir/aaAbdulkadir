@@ -32,13 +32,13 @@ DevOps:
 - [Portfolio WebApp Cloud-based CI/CD Pipeline](https://github.com/aaAbdulkadir/DevOps/tree/main/project)
 
 Data:
-- [Data Engineering Zoom Camp: Cloud-based ETL Pipeline](https://github.com/aaAbdulkadir/Data-Science/tree/main/ZoomCamp/Project)
+- [Data Engineering Zoom Camp: Cloud-based ETL Pipeline](https://github.com/aaAbdulkadir/DataPortfolio/tree/main/ZoomCamp/Project)
 - [QA Final Project: Data Warehousing for Business Intelligence Reporting](https://github.com/aaAbdulkadir/Data-Science/tree/main/Bootcamp/Final%20Project)
 - Regression and Classification Machine Learning Models on NBA Data:
-	- [Classification](https://github.com/aaAbdulkadir/Data-Science/blob/main/ML%20Projects/NBA%20Classification.ipynb)
-	- [Regression](https://github.com/aaAbdulkadir/Data-Science/blob/main/ML%20Projects/NBA%20MVP%20Prediction%20Regression.ipynb)
-- [COVID-19 ETL Pipeline for Analysis and Tracking](https://github.com/aaAbdulkadir/Data-Science/tree/main/Exploratory%20Data%20Analysis/COVIDProject)
+	- [Classification](https://github.com/aaAbdulkadir/DataPortfolio/blob/main/ML%20Projects/NBA%20Classification.ipynb)
+	- [Regression](https://github.com/aaAbdulkadir/DataPortfolio/blob/main/ML%20Projects/NBA%20MVP%20Prediction%20Regression.ipynb)
+- [COVID-19 ETL Pipeline for Analysis and Tracking](https://github.com/aaAbdulkadir/DataPortfolio/tree/main/Exploratory%20Data%20Analysis/COVIDProject)
 
 ## Complete Data Portfolio
- - Check out my [data repository](https://github.com/aaAbdulkadir/Data-Science)
+ - Check out my [data repository](https://github.com/aaAbdulkadir/DataPortfolio)
 
