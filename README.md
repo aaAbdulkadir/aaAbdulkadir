@@ -21,7 +21,9 @@
 - Linux.
 - Git.
 - Apache Airflow and Spark.
-- Jenkins
+- Jenkins.
+- HTML/CSS.
+- React and Django beginner.
 
 
 ## CV Portfolio Projects
