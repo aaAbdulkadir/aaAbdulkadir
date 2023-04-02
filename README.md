@@ -21,12 +21,14 @@
 - Linux.
 - Git.
 - Apache Airflow and Spark.
-- Jenkins
+- Jenkins.
+- HTML/CSS.
+- React and Django beginner.
 
 
 ## CV Portfolio Projects
 
-These are the projects that I have put on my CV. You can check them out by clicking on the links or by checking out my [portfolio website](https://aaabdulkadir-dataportfolio-portfolio1--home-aw1tq3.streamlitapp.com/), which summarises all the projects.
+These are the projects that I have put on my CV. You can check them out by clicking on the links or by checking out my [portfolio website](https://AbdulkadirPortfolio.streamlit.app), which summarises all the projects.
 
 DevOps:
 - [Portfolio WebApp Cloud-based CI/CD Pipeline](https://github.com/aaAbdulkadir/DevOps/tree/main/project)
