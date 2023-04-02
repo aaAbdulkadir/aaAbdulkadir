@@ -24,6 +24,7 @@
 - Jenkins.
 - HTML/CSS.
 - React and Django beginner.
+- APIs
 
 
 ## CV Portfolio Projects
@@ -47,8 +48,15 @@ Data:
 
 ## Post Job
 
-- Databricks
+Additional skills
+
+Cloud:
+
 - Azure DevOps
 - Azure Web App and Blob Storage Web Hosting
 - AWS S3
 
+Data:
+
+- Databricks
+- Data Modelling
