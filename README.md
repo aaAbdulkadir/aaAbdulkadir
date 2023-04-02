@@ -45,8 +45,6 @@ Data:
  - Check out my [data repository](https://github.com/aaAbdulkadir/DataPortfolio)
 
 
-<h1></h1>
-
 ## Post Job
 
 - Databricks
