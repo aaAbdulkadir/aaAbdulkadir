@@ -42,3 +42,13 @@ Data:
 ## Complete Data Portfolio
  - Check out my [data repository](https://github.com/aaAbdulkadir/DataPortfolio)
 
+
+<h1></h1>
+
+## Post Job
+
+- Databricks
+- Azure DevOps
+- Azure Web App and Blob Storage Web Hosting
+- AWS S3
+
