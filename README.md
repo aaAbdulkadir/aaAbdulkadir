@@ -25,6 +25,7 @@
 - HTML/CSS.
 - React and Django beginner.
 - APIs
+- Unit Testing
 
 
 ## CV Portfolio Projects
@@ -60,3 +61,6 @@ Data:
 
 - Databricks
 - Data Modelling
+
+General:
+- TDD
