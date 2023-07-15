@@ -47,7 +47,7 @@ Data:
  - Check out my [data repository](https://github.com/aaAbdulkadir/DataPortfolio)
 
 
-## Post Job
+## Post
 
 Additional skills
 
