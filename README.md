@@ -4,63 +4,77 @@
 
 
 ## About me
-- Self taught data science/analyst/engineer.
-- Data analysis experience.
-- MEng Mechanical Engineering Graduate 2021.
+- Data Engineer with two years of commercial experience
 
 
 ## My Skills
 
-- Python (Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, Beautifulsoup, Selenium, Streamlit).
-- SQL (TSQL, Data Warehouse, Data Architecture, ETL).
+**Programming**
+- Python -> Libraries: Pandas, Polars, Pyspark | Selenium, BeautifulSoup 
+- SQL 
+
+**Data Engineering Tools**
+- Apache Airflow
+- ETL
+- Data Modelling
+- Data Warehousing
+
+**Cloud Platforms**
+- AWS -> EC2, RDS, Redshift, Lambda, S3
+- Azure -> Virtual Machine, Blob Storage, ACR, AKS, WebApp
+
+**Databases**
+- MSSQL
+- PostgreSQL
+- Databricks
+
+**CI/CD**
+- Jenkins
+- Azure Pipelines
+- GitHub Actions
+
+**Analytics**
 - Data Visualization (PowerBI, Tableau).
-- Azure Fundamentals AZ-900, Storage, Synpase Analytics, Data Lakes, VM, ML Studio, AKS, ACR.
-- Terraform.
+
+**Rest**
 - Docker Containers.
+- Terraform.
 - Kubernetes
-- Linux.
-- Git.
-- Apache Airflow and Spark.
-- Jenkins.
-- HTML/CSS.
-- React and Django beginner.
-- APIs
-- Unit Testing
 
 
-## CV Portfolio Projects
+## Portfolio Projects
 
-These are the projects that I have put on my CV. You can check them out by clicking on the links or by checking out my [portfolio website](https://AbdulkadirPortfolio.streamlit.app), which summarises all the projects.
+### Data Engineering
 
-DevOps:
-- [Portfolio WebApp Cloud-based CI/CD Pipeline](https://github.com/aaAbdulkadir/DevOps/tree/main/project)
+**ETL Pipelines**
 
-Data:
+- [Automated ETL Airflow Pipline on AWS](https://github.com/aaAbdulkadir/cloud-data-project-1)
 - [Data Engineering Zoom Camp: Cloud-based ETL Pipeline](https://github.com/aaAbdulkadir/DataPortfolio/tree/main/ZoomCamp/Project)
+
+
+**Data Modelling and Warehousing**
+
 - [QA Final Project: Data Warehousing for Business Intelligence Reporting](https://github.com/aaAbdulkadir/DataPortfolio/tree/main/Bootcamp/Final%20Project)
+- [New York Taxi -> Part of AWS Airflow Project](https://github.com/aaAbdulkadir/cloud-data-project-1/blob/main/notes/datawarehouse_setup.md)
+
+
+### The Rest
+
+**Machine Learning**
 - Regression and Classification Machine Learning Models on NBA Data:
 	- [Classification](https://github.com/aaAbdulkadir/DataPortfolio/blob/main/ML%20Projects/NBA%20Classification.ipynb)
 	- [Regression](https://github.com/aaAbdulkadir/DataPortfolio/blob/main/ML%20Projects/NBA%20MVP%20Prediction%20Regression.ipynb)
+
+**DevOps**
+- [Portfolio WebApp Cloud-based CI/CD Pipeline](https://github.com/aaAbdulkadir/DevOps/tree/main/project)
+
+**Web Dev**
+- [Portfolio website with streamlit](https://AbdulkadirPortfolio.streamlit.app)
+
+**Data Analysis**
 - [COVID-19 ETL Pipeline for Analysis and Tracking](https://github.com/aaAbdulkadir/DataPortfolio/tree/main/Exploratory%20Data%20Analysis/COVIDProject)
 
-## Complete Data Portfolio
+**Rest of Data Work**
+
  - Check out my [data repository](https://github.com/aaAbdulkadir/DataPortfolio)
 
-
-## Post
-
-Additional skills
-
-Cloud:
-
-- Azure DevOps
-- Azure Web App and Blob Storage Web Hosting
-- AWS S3
-
-Data:
-
-- Databricks
-- Data Modelling
-
-General:
-- TDD
