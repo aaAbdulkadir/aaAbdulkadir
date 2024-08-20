@@ -36,7 +36,7 @@
 **Analytics**
 - Data Visualization (PowerBI, Tableau).
 
-**Rest**
+**Other Technologies**
 - Docker Containers.
 - Terraform.
 - Kubernetes
