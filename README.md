@@ -48,7 +48,7 @@
 
 **ETL Pipelines**
 
-- [Automated ETL Airflow Pipline on AWS](https://github.com/aaAbdulkadir/cloud-data-project-1)
+- [Automated Airflow ETL Pipline on AWS](https://github.com/aaAbdulkadir/cloud-data-project-1)
 - [Data Engineering Zoom Camp: Cloud-based ETL Pipeline](https://github.com/aaAbdulkadir/DataPortfolio/tree/main/ZoomCamp/Project)
 
 
