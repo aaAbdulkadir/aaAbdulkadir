@@ -4,7 +4,7 @@
 
 
 ## About me
-- Data Engineer with two years of commercial experience
+- Data Engineer with over two years of commercial experience
 
 
 ## My Skills
